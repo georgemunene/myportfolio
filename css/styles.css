@@ -1,12 +1,21 @@
 body {
-  background-image: url(../images/page.jpg);
+  background-image: url(../images/2.jpeg);
   background-size: auto;
   background-repeat: no-repeat;
+  position: fixed;
+
+}
+
+.container {
+  border: 2px;
+  background-color: red;
+  width: auto;
+  height: auto;
 
 }
 
 .right-panel {
-  width: 400px;
+  width:200px;
   height:250px;
   margin: 0 auto;
   background-color: #005ba2;
@@ -15,6 +24,7 @@ body {
   font-size: 12px;
   font-weight: 900;
   float: right;
+  padding-left: 10px;
 }
 
 .left-panel {
