@@ -1,4 +1,6 @@
-
+h1 {
+  text-align: center;
+}
 .profilepic {
   float: center;
   margin: 0 auto;
@@ -17,6 +19,7 @@
   height:600px;
   margin: 0 auto;
   background-color: grey;
+  padding-left: 40px;
 
   border-color: black;
 
@@ -35,6 +38,7 @@
   font-family: sans-serif;
   font-size: 12px;
   font-weight: 900;
+  padding-left: 40px;
   }
 
 .bottom-panel {
@@ -46,4 +50,5 @@
   font-family: sans-serif;
   font-size: 12px;
   font-weight: 900;
+  padding-left: 40px;
   }
