@@ -1,34 +1,20 @@
-h1 {
-  color:red;
-}
-
-.bg {
+body {
   background-image: url(../images/page.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 
-  body {
-    line-height: 1.7
-  }
+}
 
-
-.name {
+.container {
+  width: 600px;
+  margin: 0 auto;
+  background-color: red;
   float: right;
-  margin: 0px;
+
+.right-panel {
 
 }
 
-.green {
-  background-color: white;
-  color: white;
-  font-weight: 400;
-  font-family: sans-serif;
+.bottom-panel {
 
-}
-
-.prof {
-  color: white;
-  background-color: white;
-  float: left;
-  width: 350px;
 }
