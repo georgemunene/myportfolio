@@ -26,10 +26,9 @@ h1 {
 
 }
 
-
-.profile {
+.prof {
   color: white;
   background-color: white;
-  margin: 0px;
-  float: right;
+  float: left;
+  width: 350px;
 }
