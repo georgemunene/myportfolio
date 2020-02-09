@@ -11,7 +11,7 @@ This is a simple portfolio written in CSS and HTML.
 All you need is a computing device with a browser and of course the internet.Click on the provided link and you will be directed to my portfolio.
 
 #### Links to Github Pages
-georgemunene.github.io/myportifolio
+https://georgemunene.github.io/myportfolio/
 
 ##### License
 This is  open and free.See License.md
